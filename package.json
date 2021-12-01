@@ -1,0 +1,23 @@
+{
+  "name": "a02-grant-syt",
+  "version": "1.0.0",
+  "description": "Testing out the Bulma Framework.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-Grant-Syt.git"
+  },
+  "author": "Grant Sytniak",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-Grant-Syt/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-Grant-Syt#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
